@@ -54,9 +54,5 @@
 * unknown灯
 前四种灯可以通过地图+感知灯实实在在的看到，后一种灯应对遮挡、漏检等场景无法获知灯的类型。
 ![aa689f765b826cf9eb6c56fd590dfa0](https://github.com/nieting1997/-/assets/90097659/eb7b39b6-bf70-4468-a368-3092dc18c512)
-
-
 当收到unknown灯时，需要推导红绿灯。
-
-<img src="/Users/mac/Library/Application Support/typora-user-images/image-20240616125640169.png" alt="image-20240616125640169" style="zoom:75%;" />
 
